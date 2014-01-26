@@ -7,6 +7,9 @@ Simple 2DPlatform game engine
 
 *****************************Just for fun***************************
 
+Blog
+	
+	http://dzonegames.wordpress.com/
 
 DotNet
 
