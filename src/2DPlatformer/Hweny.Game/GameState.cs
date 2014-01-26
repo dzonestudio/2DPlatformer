@@ -1,7 +1,7 @@
 ﻿/* 
  * ///////////////////////////////////////////////////////////////////// 
  * Filename: GameState.cs 
- * Author  : D-Zone Studio hweny(dzonestudio@163.com) 
+ * Author  : D-Zone Studio hweny(dzonestudio.hweny@gmail.com) 
  * Date    : 2014/1/23      
  * Resume  : 游戏状态基类，提供每一个派生的游戏状态所需要的游戏初始化、更新、绘制和清理等实现接口；
  *  

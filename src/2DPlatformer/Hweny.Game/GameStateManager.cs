@@ -1,7 +1,7 @@
 ﻿/* 
  * ///////////////////////////////////////////////////////////////////// 
  * Filename: GameStateManager.cs 
- * Author  : D-Zone Studio hweny(dzonestudio@163.com) 
+ * Author  : D-Zone Studio hweny(dzonestudio.hweny@gmail.com) 
  * Date    : 2014/1/23      
  * Resume  : 游戏状态管理类，游戏中每一个场景都属于一个状态，该类维护游戏所有状态的健值对，
  *           采用线性栈对状态进行调度，当前栈顶元素为游戏当前状态。

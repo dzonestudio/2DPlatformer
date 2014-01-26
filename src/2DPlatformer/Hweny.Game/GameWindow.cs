@@ -1,7 +1,7 @@
 ﻿/* 
  * ///////////////////////////////////////////////////////////////////// 
  * Filename: GameWindow.cs 
- * Author  : D-Zone Studio hweny(dzonestudio@163.com) 
+ * Author  : D-Zone Studio hweny(dzonestudio.hweny@gmail.com) 
  * Date    : 2014/1/23      
  * Resume  : 游戏窗体类，采用windows消息循环驱动游戏的运行。
  *  

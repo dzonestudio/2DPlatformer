@@ -1,7 +1,7 @@
 ﻿/* 
  * ///////////////////////////////////////////////////////////////////// 
  * Filename: GameEngine.cs 
- * Author  : D-Zone Studio hweny(dzonestudio@163.com) 
+ * Author  : D-Zone Studio hweny(dzonestudio.hweny@gmail.com) 
  * Date    : 2014/1/23      
  * Resume  : 游戏引擎类，管理游戏的创建、输入、运行与清理。
  *  

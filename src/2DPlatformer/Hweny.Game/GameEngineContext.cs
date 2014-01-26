@@ -1,7 +1,7 @@
 ﻿/* 
  * ///////////////////////////////////////////////////////////////////// 
  * Filename: GameEngineContext.cs 
- * Author  : D-Zone Studio hweny(dzonestudio@163.com) 
+ * Author  : D-Zone Studio hweny(dzonestudio.hweny@gmail.com) 
  * Date    : 2014/1/23      
  * Resume  : 游戏上下文类，可以通过此类获取当前游戏引擎信息
  *  
