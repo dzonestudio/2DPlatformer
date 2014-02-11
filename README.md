@@ -6,6 +6,7 @@
 Simple 2DPlatform game engine
 
 *****************************Just for fun***************************
+
 By: hweny(智商余额不足)
 
 Blog
@@ -13,6 +14,7 @@ Blog
 	http://dzonegames.wordpress.com/
 
 E-mail
+
 	dzonestudo.hweny@gmail.com
 	hwenycocodq520@163.com
 
